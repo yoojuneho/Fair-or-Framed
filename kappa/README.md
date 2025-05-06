@@ -1,0 +1,1 @@
+The scoring data set is the data set measured in the paper (Section 4.2.4), and the final bias is represented by calculating the total of the items measured by each human evaluator and gpt-4o through grading.py, and the evaluation of gpt-4o was performed through GPT.py. Finally, the Fleiss' Kappa scores of the three evaluators were calculated through kappa.py.
